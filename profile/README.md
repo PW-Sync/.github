@@ -12,3 +12,4 @@ Para Wodna Sync is (at least tries to be) a cloud save management tool for [Retr
 
 
 #### There's also a [GUI](https://github.com/PW-Sync/ciekly_lod) available. You should definitely check it out.
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/PW-Sync/ciekly_lod/rust.yml)
