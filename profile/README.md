@@ -7,7 +7,7 @@ Para Wodna Sync is (at least tries to be) a cloud save management tool for [Retr
 - [Linux](https://github.com/PW-Sync/pwsync-linux) | ❗
 - Windows | ❌
 - Raspberry Pi | ❌
-- [Android](https://github.com/PW-Sync/pwsync-android) | ❗
+- [Android](https://github.com/PW-Sync/pwsync-android) | ❌
 
 ###### ❗ - not working / in early developement<br>❌ - planned, but not yet started
 
