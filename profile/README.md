@@ -8,4 +8,6 @@ With PW Sync you can easily synchronize your retro game saves between supported 
 - Windows | ❌
 - Raspberry Pi | ❌
 
+###### ❗ - not working / in early developement<br>❌ - planned, but not yet started
+
 #### There's also a [GUI](https://github.com/PW-Sync/ciekly_lod) available. You should definitely check it out.
